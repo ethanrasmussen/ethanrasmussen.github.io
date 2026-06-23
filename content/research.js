@@ -41,7 +41,7 @@ window.PORTFOLIO.research = [
     // venue: "Machine Learning for Healthcare",
     venue: "Targeting Conference Publication",
     description: "This work shows that synthetic EHR generation models can be evaluated fairly and reproducibly within a unified benchmarking framework, enabling rigorous comparison, validation, and improvement of privacy-preserving healthcare data generators that were previously difficult to assess due to fragmented tooling and inconsistent evaluation methods.",
-    // link: "https://arxiv.org/abs/0000.00000",
+    link: "https://arxiv.org/abs/2606.06990",
     status: "In peer review"
   }
 ];
