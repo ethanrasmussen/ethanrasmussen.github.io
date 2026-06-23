@@ -22,8 +22,8 @@ window.PORTFOLIO.about = {
           description: "Building agentic AI solutions to drive cost savings and enhance enterprise agility.",
           details: [
             "Developed and deployed AbbVie's first agentic solution to save cost by replacing outsourced work.",
-            "Managing end-to-end creation of multiple agentic projects, including requirements gathering, full-stack development, cloud deployment, and compliance.",
-            "Technical lead for small engineering team [3 devs] tackling enterprise-scale problems, such as automatic IT event monitoring and remediation, security oversight, competitive intelligence, automated ticket processing, and SDLC documentation.",
+            "Managing end-to-end creation of multiple agentic projects, including requirements gathering, full-stack development, cloud deployment, and compliance. Working on solutions that tackle enterprise-scale problems, such as automated IT event remediation, competitive intelligence, security oversight, automated ticket processing, and SDLC documentation.",
+            // "Technical lead for small engineering team [3 devs] tackling enterprise-scale problems, such as automatic IT event monitoring and remediation, security oversight, competitive intelligence, automated ticket processing, and SDLC documentation.",
           ]
         },
         {
